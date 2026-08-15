@@ -22,15 +22,15 @@ sql-50-leetcode/
 ## ✅ Daily Progress Checklist
 
 **Select**
-- [ ] 01 - [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) (Easy)
-- [ ] 02 - [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) (Easy)
-- [ ] 03 - [Big Countries](https://leetcode.com/problems/big-countries/) (Easy)
-- [ ] 04 - [Article Views I](https://leetcode.com/problems/article-views-i/) (Easy)
-- [ ] 05 - [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) (Easy)
+- ✅ 01 - [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) (Easy)
+- ✅ 02 - [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) (Easy)
+- ✅ 03 - [Big Countries](https://leetcode.com/problems/big-countries/) (Easy)
+- ✅ 04 - [Article Views I](https://leetcode.com/problems/article-views-i/) (Easy)
+- ✅ 05 - [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) (Easy)
 
 **Basic Joins**
-- [ ] 06 - [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) (Easy)
-- [ ] 07 - [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) (Easy)
+- ✅ 06 - [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) (Easy)
+- ✅ 07 - [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) (Easy)
 - [ ] 08 - [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy)
 - [ ] 09 - [Rising Temperature](https://leetcode.com/problems/rising-temperature/) (Easy)
 - [ ] 10 - [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) (Easy)
