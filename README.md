@@ -36,7 +36,7 @@ sql-50-leetcode/
 - ✅ 10 - [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) (Easy)
 - ✅ 11 - [Employee Bonus](https://leetcode.com/problems/employee-bonus/) (Easy)
 - ✅ 12 - [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) (Easy)
-- [ ] 13 - [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) (Medium)
+- ✅13 - [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) (Medium)
 - [ ] 14 - [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) (Medium)
 
 **Basic Aggregate Functions**
