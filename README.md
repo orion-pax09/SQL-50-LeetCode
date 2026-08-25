@@ -37,11 +37,11 @@ sql-50-leetcode/
 - ✅ 11 - [Employee Bonus](https://leetcode.com/problems/employee-bonus/) (Easy)
 - ✅ 12 - [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) (Easy)
 - ✅13 - [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) (Medium)
-- [ ] 14 - [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) (Medium)
+- ✅14 - [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) (Medium)
 
 **Basic Aggregate Functions**
-- [ ] 15 - [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) (Easy)
-- [ ] 16 - [Average Selling Price](https://leetcode.com/problems/average-selling-price/) (Easy)
+- ✅ 15 - [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) (Easy)
+- ✅ 16 - [Average Selling Price](https://leetcode.com/problems/average-selling-price/) (Easy)
 - [ ] 17 - [Project Employees I](https://leetcode.com/problems/project-employees-i/) (Easy)
 - [ ] 18 - [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) (Easy)
 - [ ] 19 - [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) (Easy)
